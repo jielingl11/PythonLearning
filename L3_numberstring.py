@@ -12,6 +12,7 @@ u="Hello\nWorld"
 w="""Hello
 World"""
 x="Hello"*3+"World"
+
 #字串會對內部的字元編號，從0開始算起
 print(s[1])
 print(s[1:4]) # 包含開頭的編號，不包含結尾
